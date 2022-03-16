@@ -14,7 +14,7 @@ public class Ecommerce {
 	{RestAssured.baseURI = baseurl;
 	
 	String RequestBody = "{\n"
-			+ "	\"email\": \"rosdduhnnjobakahd@gmail.com\",\n"
+			+ "	\"email\": \"rosdduhnnddjobakahd@gmail.com\",\n"
 			+ "	\"password\": \"welcome\"\n"
 			+ "}";
 	 Response responses = given()
